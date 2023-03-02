@@ -23,4 +23,4 @@
 
 ---
  ###  &nbsp;
-![Codewars](https://github.r2v.ch/codewars?user=advatunes&stroke=COLOR)
+![Codewars](https://github.r2v.ch/codewars?user=advatunes&stroke=COLOR&hide_clan=true)
