@@ -20,6 +20,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=advatunes&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
- ###  &nbsp;
-![Codewars](https://github.r2v.ch/codewars?user=advatunes&stroke=COLOR&hide_clan=true)
